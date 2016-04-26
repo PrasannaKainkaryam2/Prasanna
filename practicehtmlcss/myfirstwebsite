@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta charset ="utf-8"/>
+</head>
+<body>
+<h1> My First Website </h1>
+<p>Here are somethings I enjoy</p>
+<ul>
+  <li>web development</li>
+  <li>Reading</li>
+  <li>Playing</li>
+</ul>
+<h3>Favourite Quotes</h3>
+<blockquote>
+  Here is a favourite quote of mine
+</blockquote>
+<blockquote>
+  And the other....
+</blockquote>
+
+</body>
+</html>
